@@ -21,12 +21,12 @@ Project Management Skills :    Program Management  · Cross Functional Team Buil
 - 🔭 I’m currently working on  Cloud Tech , DevOps and Full Stack Development 
 - 🌱 I’m currently learning AWS, Kubernetes
 - 👯 I’m looking to collaborate on Cloud Computing
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about PMP, Cloud Computing, Java, DEVOPS
 - 📫 Reach me: k7krishnakumar@gmail.com
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=k7krishna)
 
