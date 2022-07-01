@@ -17,10 +17,6 @@ Technical Skills          :    AWS Cloud Computing · Cucumber · Full-Stack Dev
 Agile  Skills             :    Agile Methodologies · JIRA  · SAFe · Scrum · Kanban  · Agile Project Management 
 Project Management Skills :    Program Management  · Cross Functional Team Building ·  IT Service Management  ·  Business Process Automation
 
-<!--
-**k7krishna/k7krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  Cloud Tech , DevOps and Full Stack Development 
 - 🌱 I’m currently learning AWS, Kubernetes
@@ -30,9 +26,8 @@ Here are some ideas to get you started:
 - 📫 Reach me: k7krishnakumar@gmmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=k7krishna)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k7krishna
-//&repo=YourRepositoryName)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k7krishna&repo=YourRepositoryName)
