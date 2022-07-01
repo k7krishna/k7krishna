@@ -30,8 +30,9 @@ Project Management Skills :    Program Management  · Cross Functional Team Buil
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=k7krishna)
 
+<!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k7krishna&repo=YourRepositoryName)
-
+--> 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krishnakumar-k-pmp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
