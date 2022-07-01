@@ -23,7 +23,7 @@ Project Management Skills :    Program Management  · Cross Functional Team Buil
 - 👯 I’m looking to collaborate on Cloud Computing
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about PMP, Cloud Computing, Java, DEVOPS
-- 📫 Reach me: k7krishnakumar@gmmail.com
+- 📫 Reach me: k7krishnakumar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -31,3 +31,6 @@ Project Management Skills :    Program Management  · Cross Functional Team Buil
 ![Github stats](https://github-readme-stats.vercel.app/api?username=k7krishna)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=k7krishna&repo=YourRepositoryName)
+
+![counter](https://enqjxs37ekfiikl.m.pipedream.net)
+
