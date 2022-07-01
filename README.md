@@ -1,6 +1,6 @@
 ### Hi I'm Krishnakumar K(KK) 👋
 
-2x AWS Certified | Agile Transformation | Engineering | Devops | Cloud 
+2x AWS Certified | PMP certified | SAFe certified | | ITIL certified | Devops Professional Certified 
 
 Experienced IT executive with a demonstrated history of working in the software and services industry. 
 Core proficiencies: ✔ Agile/SAFe ✔ DEVOPS ✔ AWS ✔ Java/J2EE ✔Program/Project Management ✔ Infrastructure Operations 
