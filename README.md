@@ -90,20 +90,7 @@ https://komarev.com/ghpvc/?username=k7krishna
     -->
 </div>
 
-        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-        <div class="icon-box iconbox-pink">
-             <div class="icon">
-               <img src="assets/img/agilist.png" width="120px" height="120px" alt="SAFe5 Agilist">
-             </div>
-         <h4><a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">SAFe&reg; 5 Agilist</a></h4>
-         <p>From this course<br /> <br /> Also attendees gain  (ARTs). <br /> <br /> Attendees explore         </p>
-           <b />
-             <a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">View Certificate</a>
-           <br />
-           <p><b>Issuing Authority: </b><a href="https://www.scaledagile.com/" target="_blank">Agile Inc</a></p>
-                <p><b>Issued Date: </b>Jul 2020</p>
-          </div>
-       </div>
+
      
                 
 
