@@ -90,25 +90,21 @@ https://komarev.com/ghpvc/?username=k7krishna
     -->
 </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
-                        <div class="icon-box iconbox-pink">
-                            <div class="icon">
-                                <img src="assets/img/agilist.png" width="120px" height="120px" alt="SAFe5 Agilist">
-                            </div>
-                            <h4><a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">SAFe&reg; 5 Agilist</a></h4>
-                            <p>From this course, attendees gain the knowledge necessary to lead a Lean-Agile enterprise by leveraging the Scaled Agile Framework® (SAFe®) and its underlying principles derived from Lean, systems thinking, Agile development,
-                                product development flow, and DevOps. <br /> <br /> Also attendees gain insights into mastering Business Agility in order to thrive in the competitive market. They discuss how to establish team and technical agility and
-                                organize and re-organize around the flow of value. They also learn and practice the skills for supporting and executing PI Planning events and coordinating multiple Agile Release Trains (ARTs). <br /> <br /> Attendees explore
-                                the importance of adopting a customer-centric mindset and design thinking approach to agile product delivery. Learners also develop an understanding for implementing a Lean Portfolio Management function in their enterprise.
-                            </p>
-                            <br />
-                            <a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">View Certificate</a>
-                            <br />
-                            <p><b>Issuing Authority: </b><a href="https://www.scaledagile.com/" target="_blank">Agile Inc</a></p>
-                            <p><b>Issued Date: </b>Jul 2020</p>
-                        </div>
-                    </div>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+        <div class="icon-box iconbox-pink">
+             <div class="icon">
+               <img src="assets/img/agilist.png" width="120px" height="120px" alt="SAFe5 Agilist">
+             </div>
+         <h4><a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">SAFe&reg; 5 Agilist</a></h4>
+         <p>From this course<br /> <br /> Also attendees gain  (ARTs). <br /> <br /> Attendees explore         </p>
+           <b />
+             <a href="https://www.youracclaim.com/badges/6deb4350-1fc3-4758-a1be-ecfdb04bf17a" target="_blank">View Certificate</a>
+           <br />
+           <p><b>Issuing Authority: </b><a href="https://www.scaledagile.com/" target="_blank">Agile Inc</a></p>
+                <p><b>Issued Date: </b>Jul 2020</p>
+          </div>
+       </div>
+     
                 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k7krishna)]
